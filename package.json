@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/qidirbaev/story-stalker/issues"
   },
-  "homepage": "https://github.com/qidirbaev/story-stalker#readme"
+  "homepage": "https://github.com/qidirbaev/story-stalker#readme",
+  "dependencies": {
+    "fastify": "^4.9.2"
+  }
 }

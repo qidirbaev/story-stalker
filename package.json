@@ -1,0 +1,26 @@
+{
+  "name": "story-stalker",
+  "version": "1.0.0",
+  "description": "Instagram story stalker project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run:test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qidirbaev/story-stalker.git"
+  },
+  "keywords": [
+    "instagram",
+    "story",
+    "stalker",
+    "nodejs",
+    "js"
+  ],
+  "author": "Begzat Kidirbaev <imbegzat@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qidirbaev/story-stalker/issues"
+  },
+  "homepage": "https://github.com/qidirbaev/story-stalker#readme"
+}

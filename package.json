@@ -4,7 +4,8 @@
   "description": "Instagram story stalker project",
   "main": "index.js",
   "scripts": {
-    "test": "node run:test"
+    "test": "node run:test",
+    "start": "cls & nodemon --quiet index.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   },
   "homepage": "https://github.com/qidirbaev/story-stalker#readme",
   "dependencies": {
-    "fastify": "^4.9.2"
+    "fastify": "^4.9.2",
+    "puppeteer": "^19.2.0"
   }
 }
